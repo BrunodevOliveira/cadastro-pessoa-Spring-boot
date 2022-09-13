@@ -1,4 +1,9 @@
-# Cadastro Pessoa
+<div align="center">
+  <img src="https://github.com/ralflima/java_spring/blob/master/icone.png" width="30%">
+  <h1 style="border-bottom:none">API deccadastro com Spring Boot</h1>
+</div>
+
+## Sobre o projeto
 API que realiza o Cadastro de pessoas na linguagem Java utilizando Spring Boot.
 
 ## Tecnologias utilizadas
