@@ -14,6 +14,7 @@ API que realiza o Cadastro de pessoas na linguagem Java utilizando Spring Boot.
     - Serviço
     - Acesso a dados (Repository)
 - Criação de Entidades
+- Conexão com banco de dados relacional PostgresSQL
 - Validação de dados via JPA
 - CRUD Completo
 
