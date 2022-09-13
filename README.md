@@ -6,6 +6,17 @@
 ## Sobre o projeto
 API que realiza o Cadastro de pessoas na linguagem Java utilizando Spring Boot.
 
+## Competências praticadas no projeto
+ - Criar projeto Spring Boot
+ - Criar monorepo Git
+ - Organizar o projeto em camadas
+    - Controlador REST
+    - Serviço
+    - Acesso a dados (Repository)
+- Criação de Entidades
+- Validação de dados via JPA
+- CRUD Completo
+
 ## Tecnologias utilizadas
 <p>
   <img alt="java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="27" />
