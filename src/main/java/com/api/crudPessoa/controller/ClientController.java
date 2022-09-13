@@ -45,11 +45,6 @@ public class ClientController {
         return service.selectById(id);
     }
 
-    @GetMapping("usuario/{name}")
-    public Pessoa selectByName(@PathVariable String name) {
-        return action.findByName(name);
-    }
-
     @PutMapping("/api")
     public ResponseEntity<?> editPerson(@RequestBody Pessoa obj) {
         return service.editPerson(obj);
