@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ralflima/java_spring/blob/master/icone.png" width="30%">
-  <h1 style="border-bottom:none">API deccadastro com Spring Boot</h1>
+  <h1 style="border-bottom:none">API de cadastro com Spring Boot</h1>
 </div>
 
 ## Sobre o projeto
