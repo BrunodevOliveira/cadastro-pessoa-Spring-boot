@@ -3,10 +3,10 @@
   <h1 style="border-bottom:none">API de cadastro com Spring Boot</h1>
 </div>
 
-## Sobre o projeto
+## 🔎 Sobre o projeto
 API que realiza o Cadastro de pessoas na linguagem Java utilizando Spring Boot.
 
-## Competências praticadas no projeto
+## 📄 Competências praticadas no projeto
  - Criar projeto Spring Boot
  - Criar monorepo Git
  - Organizar o projeto em camadas
@@ -14,9 +14,20 @@ API que realiza o Cadastro de pessoas na linguagem Java utilizando Spring Boot.
     - Serviço
     - Acesso a dados (Repository)
 - Criação de Entidades
-- Conexão com banco de dados relacional PostgresSQL
+- Conexão com banco de dados relacional PostgreSQL
 - Validação de dados via JPA
 - CRUD Completo
+
+## 🎲 Clonando a aplicação
+
+#### Clone este repositório
+$ git clone <https://github.com/BrunodevOliveira/cadastro-pessoa-Spring-boot.git>
+
+#### Para executar o projeto, será necessário instalar os seguintes programas
+- [JDK 17](https://www.oracle.com/java/technologies/downloads/)
+- [Maven 3.8.6](https://maven.apache.org/download.cgi)
+- [Intellij](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
+- [PostegreSQL](https://www.postgresql.org/download/)
 
 ## Tecnologias utilizadas
 <p>
